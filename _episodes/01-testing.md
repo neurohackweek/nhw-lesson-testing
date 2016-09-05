@@ -33,15 +33,15 @@ Some resources:
 
 ### Why test?
 
-<iframe src="http://retractionwatch.com/2016/05/19/software-glitch-not-intentional-manipulation-sunk-immunology-paper/"></iframe>
+<iframe src="http://retractionwatch.com/2016/05/19/software-glitch-not-intentional-manipulation-sunk-immunology-paper/" width="1024px"></iframe>
 
 ### Why test?
 
-<iframe src="http://retractionwatch.com/2016/06/17/jama-authors-retract-and-replace-paper-about-moves-and-kids-mental-health/"></iframe>
+<iframe src="http://retractionwatch.com/2016/06/17/jama-authors-retract-and-replace-paper-about-moves-and-kids-mental-health/" width="1024px"></iframe>
 
 ### Why test?
 
-<iframe src="http://krugman.blogs.nytimes.com/2013/04/16/holy-coding-error-batman/?_r=0"></iframe>
+<iframe src="http://krugman.blogs.nytimes.com/2013/04/16/holy-coding-error-batman/?_r=0" width="1024px"></iframe>
 
 ### Introduction to testing [software carpentry]
 
@@ -51,7 +51,7 @@ Some resources:
 
 Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.
 
-![Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development#/media/File:TDD_Global_Lifecycle.png)
+![Test Driven Development](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TDD_Global_Lifecycle.png/800px-TDD_Global_Lifecycle.png)
 
 ### What is test driven work?
 
