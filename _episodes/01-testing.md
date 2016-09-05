@@ -43,10 +43,7 @@ Some resources:
 
 [Reinhart-Rogoff excel error](http://rooseveltinstitute.org/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems/)
 
-### Why test?
-
-![Coding error](https://dl.dropbox.com/s/blt5o57pm6uhhpa/Screenshot%202016-09-05%2013.39.35.png)
-
+<image src="https://dl.dropbox.com/s/blt5o57pm6uhhpa/Screenshot%202016-09-05%2013.39.35.png" width="1024px">
 
 ### Introduction to testing [software carpentry]
 
@@ -86,6 +83,8 @@ assert ...
 ~~~
 {: .python}
 
+[Simple python environment](http://mybinder.org/repo/binder-project/example-dockerfile)
+
 ### Example 2: Testing some imaging?
 
 ~~~
@@ -96,20 +95,23 @@ assert ...
 ~~~
 {: .python}
 
+[Python environment with FSL](http://mybinder.org/repo/miykael/nipype_tutorial)
+
 ### Continuous integration
 
 - What is continuous integration?
 - How will continuous integration help me?
 
 
-### Example with continuous integration
+### Imaging example with continuous integration
 
-Location: https://github.com/ReproNim/simple_workflow
+[Example code Location](https://github.com/ReproNim/simple_workflow)
 
 Let's go through the pieces
-- circle.yml
-- Simple_Prep.sh
-- Expected output
+
+- [circle.yml](https://github.com/ReproNim/simple_workflow/blob/master/circle.yml)
+- [Simple_Prep.sh](https://github.com/ReproNim/simple_workflow/blob/master/Simple_Prep.sh)
+- [Expected output](https://github.com/ReproNim/simple_workflow/tree/master/expected_output)
 
 
 > ## Let's write our own simple workflow (click on the arrow to the right to open)
