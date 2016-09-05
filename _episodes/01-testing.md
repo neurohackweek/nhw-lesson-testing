@@ -15,21 +15,21 @@ keypoints:
 
 ### In the next one hour:
 
-5 mins - Introduction
-10 mins - Introduction to testing [software carpentry]
-5 mins - Introduction to test driven development
-10 mins - Introduction to continuous integration (travis and circle-ci)
-15 mins - Writing your own pytest test
-15 mins - Testing brain imaging scripts
-5 mins - Questions
+- 5 mins - Introduction
+- 10 mins - Introduction to testing [software carpentry]
+- 5 mins - Introduction to test driven development
+- 10 mins - Examples: Introduction to continuous integration (travis and circle-ci)
+- 15 mins - Writing your assertions
+- 15 mins - Testing brain imaging scripts
+- 5 mins - Questions
 
 ### Introduction to software testing?
 
 Some resources:
 
-[Software testing](https://en.wikipedia.org/wiki/Software_testing)
-[Software carpentry introduction to testing](http://v4.software-carpentry.org/test/intro.html)
-[Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
+- [Software testing](https://en.wikipedia.org/wiki/Software_testing)
+- [Software carpentry introduction to testing](http://v4.software-carpentry.org/test/intro.html)
+- [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 
 ### Why test?
 
@@ -41,11 +41,24 @@ Some resources:
 
 ### Why test?
 
-<iframe src="http://krugman.blogs.nytimes.com/2013/04/16/holy-coding-error-batman/" width="1024px" height="768px"></iframe>
+[Reinhart-Rogoff excel error](http://rooseveltinstitute.org/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems/)
+
+### Why test?
+
+![Coding error](https://dl.dropbox.com/s/blt5o57pm6uhhpa/Screenshot%202016-09-05%2013.39.35.png)
+
 
 ### Introduction to testing [software carpentry]
 
 <iframe src="http://v4.software-carpentry.org/test/intro.html" width="1024px" height="768px"></iframe>
+
+### 	Testing levels
+
+1. Unit testing
+2. Integration testing
+3. Component interface testing
+4. System testing
+5. Operational Acceptance testing
 
 ### What is test driven development?
 
@@ -62,13 +75,6 @@ Test-driven development (TDD) is a software development process that relies on t
 5. "Clean up the work" replaces "Refactor code"
 6. "Repeat"
 
-### 	Testing levels
-
-1. Unit testing
-2. Integration testing
-3. Component interface testing
-4. System testing
-5. Operational Acceptance testing
 
 ### Example 1: Testing code?
 
