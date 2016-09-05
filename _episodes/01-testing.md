@@ -33,19 +33,19 @@ Some resources:
 
 ### Why test?
 
-<iframe src="http://retractionwatch.com/2016/05/19/software-glitch-not-intentional-manipulation-sunk-immunology-paper/" />
+<iframe src="http://retractionwatch.com/2016/05/19/software-glitch-not-intentional-manipulation-sunk-immunology-paper/"></iframe>
 
 ### Why test?
 
-<iframe src="http://retractionwatch.com/2016/06/17/jama-authors-retract-and-replace-paper-about-moves-and-kids-mental-health/" />
+<iframe src="http://retractionwatch.com/2016/06/17/jama-authors-retract-and-replace-paper-about-moves-and-kids-mental-health/"></iframe>
 
 ### Why test?
 
-<iframe src="http://krugman.blogs.nytimes.com/2013/04/16/holy-coding-error-batman/?_r=0" />
+<iframe src="http://krugman.blogs.nytimes.com/2013/04/16/holy-coding-error-batman/?_r=0"></iframe>
 
 ### Introduction to testing [software carpentry]
 
-<iframe src="http://v4.software-carpentry.org/test/intro.html" />
+<iframe src="http://v4.software-carpentry.org/test/intro.html"></iframe>
 
 ### What is test driven development?
 
