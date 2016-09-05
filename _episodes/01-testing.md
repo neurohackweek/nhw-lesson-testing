@@ -30,6 +30,7 @@ Some resources:
 - [Software testing](https://en.wikipedia.org/wiki/Software_testing)
 - [Software carpentry introduction to testing](http://v4.software-carpentry.org/test/intro.html)
 - [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
+- [Computational science: ...Error](http://www.nature.com/news/2010/101013/full/467775a.html)
 
 ### Why test?
 
@@ -44,6 +45,11 @@ Some resources:
 [Reinhart-Rogoff excel error](http://rooseveltinstitute.org/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems/)
 
 <image src="https://dl.dropbox.com/s/blt5o57pm6uhhpa/Screenshot%202016-09-05%2013.39.35.png" width="1024px"></image>
+
+### Why test?
+
+<iframe src="https://www.cs.tau.ac.il/~nachumd/horror.html" width="1024px" height="768px"></iframe>
+
 
 ### Introduction to testing [software carpentry]
 
@@ -83,7 +89,7 @@ assert ...
 ~~~
 {: .python}
 
-[Simple python environment](http://mybinder.org/repo/binder-project/example-dockerfile)
+<a href="http://mybinder.org/repo/binder-project/example-dockerfile" target="_blank">Simple python environment</a>
 
 ### Example 2: Testing some imaging?
 
@@ -95,13 +101,14 @@ assert ...
 ~~~
 {: .python}
 
-[Python environment with FSL](http://mybinder.org/repo/miykael/nipype_tutorial)
+<a href="http://mybinder.org/repo/miykael/nipype_tutorial" target="_blank">Python environment with FSL</a>
 
 ### Continuous integration
 
 - What is continuous integration?
 - How will continuous integration help me?
-
+- Travis
+- CircleCI
 
 ### Imaging example with continuous integration
 
@@ -124,4 +131,16 @@ Let's go through the pieces
 >    - Check that this volume is consistent across runs
 >    - Add `fslreorient2std` and `robustfov` and then run the rest
 >    - Check that this volume is similar to your previous result
+{: .challenge}
+
+### Another thought experiment
+
+How should we test a task fMRI analysis?
+
+> ## Take home excercise (click on the arrow to the right to open)
+>
+>  We will modify the previous example to use a dockerfile and mybinder.
+>  
+>    - Add dockerfile
+>    - Create mybinder generator
 {: .challenge}
