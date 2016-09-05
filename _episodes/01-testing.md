@@ -43,7 +43,7 @@ Some resources:
 
 [Reinhart-Rogoff excel error](http://rooseveltinstitute.org/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems/)
 
-<image src="https://dl.dropbox.com/s/blt5o57pm6uhhpa/Screenshot%202016-09-05%2013.39.35.png" width="1024px">
+<image src="https://dl.dropbox.com/s/blt5o57pm6uhhpa/Screenshot%202016-09-05%2013.39.35.png" width="1024px"></image>
 
 ### Introduction to testing [software carpentry]
 
