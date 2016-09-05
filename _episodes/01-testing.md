@@ -112,11 +112,10 @@ Let's go through the pieces
 - Expected output
 
 
-### Let's write our own simple workflow
- 
 > ## Let's write our own simple workflow (click on the arrow to the right to open)
 >
 >  We will extract a brain mask and test that the routine is doing a good job
+>  
 >    - Download a structural image
 >    - Run `bet` from `FSL`
 >    - Run `fslstats` to extract brain volume
